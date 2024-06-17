@@ -225,4 +225,3 @@ return (
 
 
 export default Quiz
-1
